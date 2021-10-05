@@ -9,4 +9,5 @@ An app that would simply run on a user’s browser, scanning the face and hand g
 # Main Menu:
 1)Distance Threshold – Set a number as Distance Threshold (1-100). Whenever the distance between user’s hand/s and face goes shorter than Distance threshold,
 app warns the user.
+
 2)Confidence Threshold – Set a number (1-100), The confidence threshold is the confidence level to set the precision level with which it can warn the user
